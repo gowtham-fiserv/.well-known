@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fiserv.dps.mobile.sdk.FIAppTest",
+      "sha256_cert_fingerprints": [
+        "0B:B8:33:24:51:4B:4A:1B:42:13:3C:DB:69:D2:0B:83:8A:15:13:1E:B8:5E:5E:43:29:3C:A9:05:18:2C:57:73"
+      ]
+    }
+  }
+]
