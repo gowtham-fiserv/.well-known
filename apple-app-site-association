@@ -1,11 +1,16 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "HFG85958QC.com.fiserv.dps.mobile.sdk.FIAppTest",
-        "paths": [ "/zellesdk-deeplinking/sampleHomePage.html*" ]
-      }
-    ]
+    "details": [
+      {
+        "appIDs": [
+          "HFG859580C.com.fiserv.dps.mobile.sdk.FIAppTest"
+        ],
+        "components": [
+          {
+            "/": "/zellesdk-deeplinking/*"
+          }
+        ]
+      }
+    ]
   }
 }
