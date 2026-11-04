@@ -1,17 +1,11 @@
 {
   "applinks": {
-    "details": [
-      {
-        "appIDs": [
-          "HFG85958QC.com.fiserv.dps.mobile.sdk.FIAppTest"
-        ],
-        "components": [
-          {
-            "/": "/zelle/*",
-            "comment": "Local Zelle deep-link POC"
-          }
-        ]
-      }
-    ]
+    "apps": [],
+    "details": [
+      {
+        "appID": "HFG85958QC.com.fiserv.dps.mobile.sdk.FIAppTest",
+        "paths": [ "/zellesdk-deeplinking/sampleHomePage.html*" ]
+      }
+    ]
   }
 }
